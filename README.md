@@ -1,5 +1,6 @@
 
-See: http://staxmanade.com/2016/09/better-compact-jira-board-u-i-/
+# For more context/details see [this blog post](http://staxmanade.com/2016/09/better-compact-jira-board-u-i-/)
+
 
 # How to get setup
 
